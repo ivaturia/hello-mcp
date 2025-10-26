@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+.DS_Store
+# Optional lockfiles (uncomment if you want to ignore them)
+# package-lock.json
+# yarn.lock

@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "start": "node --enable-source-maps --experimental-strip-types server.ts"
+  }
+}
